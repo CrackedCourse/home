@@ -77,3 +77,39 @@ body {
   padding: 0 10px;
 }
 
+.other-method {
+  background-color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  font-size: 17px;
+}
+
+.other-method p, .other-method li {
+  color: #fff;
+}
+
+.other-method a {
+  color: #56b4d3;
+}
+
+.other-method a:hover {
+  color: #7fcce5;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
